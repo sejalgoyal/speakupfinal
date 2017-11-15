@@ -1,2 +1,2 @@
 Speakup
-is a gps based mobile application where people can post their problem and set a fixed radius.Within that radius people will be shown in a list with checkbox from that checkbox you can select people.and Selected people will be notified.
+is an android application that works upon daily life problems.Today no one has time to discuss about their locality problems so this application is mainly based on gps.When any user wants to share some incident with nearby people then he will set a radius and then application will show the other users who lies in that radius.   
