@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Login</string>
+    <string name="txtCredits">Join now??</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="log">Login</string>
+    <string name="logi">Recovery</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="facebook_app_id">274104089654565</string>
+<string name="some_text">
+     Some North American Countries!
+ </string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="categories">
+        <item name="0">All</item>
+        <item name="1">World</item>
+        <item name="2">Education</item>
+        <item name="3">Science</item>
+        <item name="4">Technology</item>
+        <item name="5">Food</item>
+        <item name="6">Sports</item>
+
+    </string-array>
+    <string name="title_activity_read">ReadActivity</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="link">Goto Link</string>
+    <string name="share">Share</string>
+</resources>
